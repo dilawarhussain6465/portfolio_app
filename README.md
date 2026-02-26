@@ -1,26 +1,16 @@
-# portfolio_app
-Table of Contents
+## Table of Contents
 
-Introduction
-
-Features
-
-Screenshots / Demo
-
-Tech Stack
-
-Project Structure
-
-Installation and Setup
-
-Usage
-
-Build / Deployment
-
-Roadmap
-
-Contributing
-
-License
-
-Contact
+- [About the Project](#about-the-project)
+- [Demo](#demo)
+- [Features](#features)
+- [Tech Stack](#tech-stack)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+  - [Running the App](#running-the-app)
+- [Project Structure](#project-structure)
+- [Deployment](#deployment)
+- [Roadmap](#roadmap)
+- [Contributing](#contributing)
+- [License](#license)
+- [Author](#author)
